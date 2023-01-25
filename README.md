@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React.js | Material-UI**
 
-- 💬 Ask me about **react | html |css |javaScript | API | Material UI**
+- 💬 Ask me about **React.js | HTML | CSS |JavaScript | API | Material UI**
 
 - 📫 How to reach me **kyiaz25.09.01@gmail.com**
 
