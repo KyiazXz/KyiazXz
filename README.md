@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **on my portfolio**
 
-- 🌱 I’m currently learning **React.js | Material-UI | Redux**
+- 🌱 I’m currently learning **React.js | Typescript | Redux**
 
 - 💬 Ask me about **HTML | CSS | JavaScript | React | Bootstap | ReactRouter**
 
